@@ -1,0 +1,11 @@
+{
+  "name": "image-processing",
+  "version": "1.0.0",
+  "description": "internet-OBS image processing workflow - FunctionGraph function (sharp + OBS)",
+  "main": "index.js",
+  "license": "MIT-0",
+  "dependencies": {
+    "esdk-obs-nodejs": "^3.24.3",
+    "sharp": "^0.33.5"
+  }
+}
